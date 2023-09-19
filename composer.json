@@ -1,0 +1,16 @@
+{
+    "name": "karra/notes-app-v2",
+    "authors": [
+        {
+            "name": "karrarjasim",
+            "email": "karrarjasim5@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Core\\" : "Core/",
+            "Http\\" : "Http/"
+        }
+    }
+}
